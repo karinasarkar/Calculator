@@ -1,0 +1,37 @@
+body{
+    background-color: cornflowerblue;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.buttons{
+    text-align: center;
+    cursor: pointer;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
+.light{
+    width: 200px;
+    background-color: cornsilk;
+    color: black;
+    border-radius: 25px;
+    margin: 30px;
+    margin-top: 10%;
+    height: 100px;
+    border: none;
+    font-size: 20px;
+
+}
+.dark{
+    width: 200px;
+    background-color: rgb(59, 58, 58);
+    color:white;
+    border-radius: 25px;
+    margin: 30px;
+    margin-top: 10%;
+    height: 100px;
+    border: none;
+    font-size: 20px;
+}
